@@ -1,5 +1,7 @@
 ### Hi there, I'm [Joe](https://blog.fdson.com) 👋
 
+[![Joe's github stats](https://github-readme-stats.vercel.app/api?username=SionFu&show_icons=true&theme=Default)](https://github.com/SionFu/)
+
 <a href="https://twitter.com/Fu_sion">
   <img align="left" alt="Fu_sion | Twitter" width="21px" src="https://github.com/SionFu/SionFu/blob/master/assets/twitter.svg" />
 </a>
@@ -21,6 +23,6 @@ Hi, I'm Joe, a iOS developer from Earth.
 <code><img height="20" src="https://github.com/SionFu/SionFu/blob/master/assets/goland.png"></code>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SionFu&show_icons=true&theme=Default)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
