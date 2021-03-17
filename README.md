@@ -13,7 +13,7 @@
 
 Hi, I'm Joe, a iOS developer from Earth.
 
-- 🌱 I’m currently learning Swift & goLand
+- 🌱 I’m currently learning Swift & goLand & Flutter
 - 💬 Talk to me about anything [here](https://github.com/sionfu/sionfu/issues)
 
 **Languages and Tools:**  
