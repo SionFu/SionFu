@@ -22,6 +22,7 @@ Hi, I'm Joe, a iOS developer from Earth.
 <code><img height="20" src="https://github.com/SionFu/SionFu/blob/master/assets/studio.png"></code>
 <code><img height="20" src="https://github.com/SionFu/SionFu/blob/master/assets/idea.png"></code>
 <code><img height="20" src="https://github.com/SionFu/SionFu/blob/master/assets/goland.png"></code>
+<code><img height="20" src="https://github.com/SionFu/SionFu/blob/master/assets/VSCode.png"></code>
 
 
 
